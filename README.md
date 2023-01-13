@@ -1,4 +1,4 @@
-Project_Name: Deals Of The Day - React App
+Project_Name: Deals Of The Day - React App || 
 Peroject_Owner: This project was made by H.M Merajul Hasan
 
 What I used?
